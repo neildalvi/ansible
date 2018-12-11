@@ -1,0 +1,2 @@
+[vm]
+___.____._.____ ansible_connection=ssh ansible_user=osboxes ansible_password=osboxes.org
